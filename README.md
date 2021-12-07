@@ -3,11 +3,11 @@
 
 ### Download the prerequisites:
 
-sudo apt-get update
+`sudo apt-get update
 sudo apt-get install libnl-3-dev libnl-genl-3-dev libnl-route-3-dev libssl-dev \
 	libdbus-1-dev git pkg-config build-essential macchanger net-tools python3-venv \
 	aircrack-ng rfkill
-sudo apt-get install firmware-ath9k-htc
+sudo apt-get install firmware-ath9k-htc`
 
 ### Clone the Repository and configure python environment:
 
