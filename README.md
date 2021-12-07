@@ -13,8 +13,8 @@ sudo apt-get install firmware-ath9k-htc
 ```
 ### Clone the Repository and configure python environment:
 
-git clone https://github.com/vanhoefm/fragattacks.git fragattacks
 ```
+git clone https://github.com/vanhoefm/fragattacks.git fragattacks
 cd fragattacks/research
 ./build.sh
 ./pysetup.sh
@@ -75,7 +75,7 @@ Make sure you disable Wi-Fi from network manager and you can run the test code
 ```
 
 To check the network card name you can use the ifconfig command, then look for the command in the Git Page that you want to run like ping I,E,E for example
-this will create a Wi-Fi network with the name "testnetwork" and passwork "abcdefgh"
+this will create a Wi-Fi network with the name "testnetwork" and password "abcdefgh"
 You can change the ssid and password by going into the client.conf in research folder.
 
 Before connecting with the target device, you can open the Wireshark on it and try to see the packet traffic during the test. 
