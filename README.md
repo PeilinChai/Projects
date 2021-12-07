@@ -40,7 +40,7 @@ cd research/ath9k-firmware/
 
 sudo dpkg-reconfigure wireshark-common
 
-### select <yes>
+### select yes
 
 sudo usermod -a -G wireshark {your username}
 
