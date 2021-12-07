@@ -1,4 +1,5 @@
-# Projects
+# Exploring the Frag attacks over Wi-Fi 
+This project is using fragattack Mathy Vanhoef's fragattack tool to explore the fragattacks.
 ## Installing the fragattack tool for vulnerability test
 
 ### Download the prerequisites:
