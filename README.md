@@ -85,7 +85,9 @@ Before connecting with the target device, you can open the Wireshark on it and t
 ## How to debug the fragattack on the vscode?
 
 As we need to check some details in the code when it’s running, debugging is a problem.  We tried to use gdb or igdb, but it’s hard to use. Then we try the vscode but a launch.json should be set to debug the code. 
-An example json file can be seen in the attachments
+An example json file can be seen here:
+
+<img src="launch json.png" />
 
 There are two parts that should be considered. The first one is to use “sudo” because the code needs the right of root. The second one is to put the command behind .py file into the “args”.
 Also, an environment of python for “venv” should be set on the bottom left of the sublime. 
