@@ -3,18 +3,21 @@
 
 ### Download the prerequisites:
 
-`sudo apt-get update`
-`sudo apt-get install libnl-3-dev libnl-genl-3-dev libnl-route-3-dev libssl-dev \
+```
+sudo apt-get update
+sudo apt-get install libnl-3-dev libnl-genl-3-dev libnl-route-3-dev libssl-dev \
 	libdbus-1-dev git pkg-config build-essential macchanger net-tools python3-venv \
-	aircrack-ng rfkill`
-`sudo apt-get install firmware-ath9k-htc`
-
+	aircrack-ng rfkill
+sudo apt-get install firmware-ath9k-htc
+```
 ### Clone the Repository and configure python environment:
 
 git clone https://github.com/vanhoefm/fragattacks.git fragattacks
-`cd fragattacks/research`
-`./build.sh`
-`./pysetup.sh`
+```
+cd fragattacks/research
+./build.sh
+./pysetup.sh
+```
 
 ### Install the patched drivers:
 
