@@ -68,7 +68,7 @@ source venv/bin/activate
 
 ----------------
 
-How to debug the fragattack on the vscode?
+## How to debug the fragattack on the vscode?
 
 As we need to check some details in the code when it’s running, debugging is a problem.  We tried to use gdb or igdb, but it’s hard to use. Then we try the vscode but a launch.json should be set to debug the code. 
 An example json file can be seen in the attachments
