@@ -1,7 +1,7 @@
 # Projects
-##Installing the fragattack tool for vulnerability test
+## Installing the fragattack tool for vulnerability test
 
-###Download the prerequisites:
+### Download the prerequisites:
 
 sudo apt-get update
 sudo apt-get install libnl-3-dev libnl-genl-3-dev libnl-route-3-dev libssl-dev \
@@ -9,14 +9,14 @@ sudo apt-get install libnl-3-dev libnl-genl-3-dev libnl-route-3-dev libssl-dev \
 	aircrack-ng rfkill
 sudo apt-get install firmware-ath9k-htc
 
-###Clone the Repository and configure python environment:
+### Clone the Repository and configure python environment:
 
 git clone https://github.com/vanhoefm/fragattacks.git fragattacks
 cd fragattacks/research
 ./build.sh
 ./pysetup.sh
 
-###Install the patched drivers:
+### Install the patched drivers:
 
 sudo apt-get install bison flex linux-headers-$(uname -r)
 git clone https://github.com/vanhoefm/fragattacks-drivers58.git fragattacks-drivers58
@@ -25,7 +25,7 @@ make defconfig-wifi
 make -j 4
 sudo make install
 
-###Install the patched firmware and Reboot:
+### Install the patched firmware and Reboot:
 
 cd research/ath9k-firmware/
 ./install.sh
@@ -35,7 +35,7 @@ cd research/ath9k-firmware/
 ## Installing the WireShark:
 
 ### For Windows you can download the software from there webpage https://www.wireshark.org/#download and install it
-###Some Packets in 802.11 might not be captured using Windows such as the EAPOL packets or LLC
+### Some Packets in 802.11 might not be captured using Windows such as the EAPOL packets or LLC
 ### For Ubuntu you can download it from Ubuntu Software and run the folowing commands:
 
 sudo dpkg-reconfigure wireshark-common
@@ -48,18 +48,18 @@ sudo usermod -a -G wireshark {your username}
 
 ---------------------------------------------------------------------------
 
-##Using the tool:
+## Using the tool:
 
 cd research
 sudo su
 source venv/bin/activate
 ./droptraffic.sh
 
-###Make sure you disable Wi-Fi from network manager and you can run the test code
+### Make sure you disable Wi-Fi from network manager and you can run the test code
 
 ./fragattack.py [NetworkCardName]--ap $COMMAND 
 
-###to check the network card name you can use the ifconfig command, then look for the command in the Git Page that you want to run like ping I,E,E for example
+### to check the network card name you can use the ifconfig command, then look for the command in the Git Page that you want to run like ping I,E,E for example
 
 ### this will create a Wi-Fi network with the name "testnetwork" and passwork "abcdefgh"
 ### You can change the ssid and password by going into the client.conf in research folder.
