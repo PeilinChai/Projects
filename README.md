@@ -89,6 +89,6 @@ An example json file can be seen here:
 
 <img src="launch json.png" />
 
-There are two parts that should be considered. The first one is to use “sudo” because the code needs the right of root. The second one is to put the command behind .py file into the “args”.
+There are two parts that should be considered. The first one is to use “sudo” True because the code needs the right of root. The second one is to put the command behind .py file into the “args”.
 Also, an environment of python for “venv” should be set on the bottom left of the sublime. 
 
