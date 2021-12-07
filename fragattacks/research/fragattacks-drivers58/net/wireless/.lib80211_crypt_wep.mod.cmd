@@ -1,0 +1,1 @@
+cmd_/home/balkan/fragattacks/research/fragattacks-drivers58/net/wireless/lib80211_crypt_wep.mod := { echo  /home/balkan/fragattacks/research/fragattacks-drivers58/net/wireless/lib80211_crypt_wep.o;  echo; } > /home/balkan/fragattacks/research/fragattacks-drivers58/net/wireless/lib80211_crypt_wep.mod

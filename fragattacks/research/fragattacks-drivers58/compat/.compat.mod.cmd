@@ -1,0 +1,1 @@
+cmd_/home/balkan/fragattacks/research/fragattacks-drivers58/compat/compat.mod := { echo  /home/balkan/fragattacks/research/fragattacks-drivers58/compat/main.o;  echo; } > /home/balkan/fragattacks/research/fragattacks-drivers58/compat/compat.mod

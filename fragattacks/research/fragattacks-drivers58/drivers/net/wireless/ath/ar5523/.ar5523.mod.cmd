@@ -1,0 +1,1 @@
+cmd_/home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/ath/ar5523/ar5523.mod := { echo  /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/ath/ar5523/ar5523.o;  echo; } > /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/ath/ar5523/ar5523.mod

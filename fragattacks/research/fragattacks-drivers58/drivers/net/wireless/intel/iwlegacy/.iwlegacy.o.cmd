@@ -1,0 +1,1 @@
+cmd_/home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/intel/iwlegacy/iwlegacy.o := ld -m elf_x86_64    -r -o /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/intel/iwlegacy/iwlegacy.o /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/intel/iwlegacy/common.o

@@ -1,0 +1,1 @@
+cmd_/home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/marvell/libertas_tf/libertas_tf_usb.mod := { echo  /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/marvell/libertas_tf/if_usb.o;  echo; } > /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/marvell/libertas_tf/libertas_tf_usb.mod

@@ -1,0 +1,2 @@
+/home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/realtek/rtl8xxxu/rtl8xxxu_core.o /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/realtek/rtl8xxxu/rtl8xxxu_8192e.o /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/realtek/rtl8xxxu/rtl8xxxu_8723b.o /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/realtek/rtl8xxxu/rtl8xxxu_8723a.o /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/realtek/rtl8xxxu/rtl8xxxu_8192c.o
+

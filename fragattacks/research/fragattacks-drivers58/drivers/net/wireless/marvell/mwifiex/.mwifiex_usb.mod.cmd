@@ -1,0 +1,1 @@
+cmd_/home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/marvell/mwifiex/mwifiex_usb.mod := { echo  /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/marvell/mwifiex/usb.o;  echo; } > /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/marvell/mwifiex/mwifiex_usb.mod

@@ -1,0 +1,1 @@
+cmd_/home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/marvell/libertas/libertas_sdio.mod := { echo  /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/marvell/libertas/if_sdio.o;  echo; } > /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/marvell/libertas/libertas_sdio.mod

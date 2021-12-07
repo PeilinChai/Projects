@@ -1,0 +1,1 @@
+cmd_/home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/ath/ath6kl/ath6kl_sdio.o := ld -m elf_x86_64    -r -o /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/ath/ath6kl/ath6kl_sdio.o /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/ath/ath6kl/sdio.o

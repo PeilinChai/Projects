@@ -1,0 +1,1 @@
+cmd_/home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/ath/ath10k/ath10k_sdio.mod := { echo  /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/ath/ath10k/sdio.o;  echo; } > /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/ath/ath10k/ath10k_sdio.mod

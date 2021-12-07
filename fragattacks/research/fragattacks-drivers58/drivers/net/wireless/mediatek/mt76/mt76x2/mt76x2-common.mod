@@ -1,0 +1,2 @@
+/home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/mediatek/mt76/mt76x2/eeprom.o /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/mediatek/mt76/mt76x2/mac.o /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/mediatek/mt76/mt76x2/init.o /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/mediatek/mt76/mt76x2/phy.o /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/mediatek/mt76/mt76x2/mcu.o
+

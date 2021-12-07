@@ -1,0 +1,1 @@
+cmd_/home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/cisco/airo_cs.mod := { echo  /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/cisco/airo_cs.o;  echo; } > /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/cisco/airo_cs.mod

@@ -1,0 +1,1 @@
+cmd_/home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/admtek/modules.order := {   echo /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/admtek/adm8211.ko; :; } | awk '!x[$$0]++' - > /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/admtek/modules.order

@@ -1,0 +1,1 @@
+cmd_/home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/mac80211_hwsim.mod := { echo  /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/mac80211_hwsim.o;  echo; } > /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/mac80211_hwsim.mod

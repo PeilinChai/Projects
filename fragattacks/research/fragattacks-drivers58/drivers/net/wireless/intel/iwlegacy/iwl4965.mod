@@ -1,0 +1,2 @@
+/home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/intel/iwlegacy/4965.o /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/intel/iwlegacy/4965-mac.o /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/intel/iwlegacy/4965-rs.o /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/intel/iwlegacy/4965-calib.o
+

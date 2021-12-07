@@ -1,0 +1,1 @@
+cmd_/home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/atmel/atmel.mod := { echo  /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/atmel/atmel.o;  echo; } > /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/atmel/atmel.mod

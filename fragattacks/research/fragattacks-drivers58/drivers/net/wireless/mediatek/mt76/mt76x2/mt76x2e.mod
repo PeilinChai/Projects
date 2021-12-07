@@ -1,0 +1,2 @@
+/home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/mediatek/mt76/mt76x2/pci.o /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/mediatek/mt76/mt76x2/pci_main.o /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/mediatek/mt76/mt76x2/pci_init.o /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/mediatek/mt76/mt76x2/pci_mcu.o /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/mediatek/mt76/mt76x2/pci_phy.o
+

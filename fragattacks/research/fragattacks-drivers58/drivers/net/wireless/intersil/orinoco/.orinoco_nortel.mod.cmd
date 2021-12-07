@@ -1,0 +1,1 @@
+cmd_/home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/intersil/orinoco/orinoco_nortel.mod := { echo  /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/intersil/orinoco/orinoco_nortel.o;  echo; } > /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/intersil/orinoco/orinoco_nortel.mod

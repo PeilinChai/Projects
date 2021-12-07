@@ -1,0 +1,1 @@
+cmd_/home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/st/cw1200/cw1200_wlan_spi.o := ld -m elf_x86_64    -r -o /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/st/cw1200/cw1200_wlan_spi.o /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/st/cw1200/cw1200_spi.o

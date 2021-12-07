@@ -1,0 +1,1 @@
+cmd_/home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/ralink/rt2x00/rt2800pci.mod := { echo  /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/ralink/rt2x00/rt2800pci.o;  echo; } > /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/ralink/rt2x00/rt2800pci.mod

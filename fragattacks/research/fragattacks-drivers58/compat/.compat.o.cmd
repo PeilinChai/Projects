@@ -1,0 +1,1 @@
+cmd_/home/balkan/fragattacks/research/fragattacks-drivers58/compat/compat.o := ld -m elf_x86_64    -r -o /home/balkan/fragattacks/research/fragattacks-drivers58/compat/compat.o /home/balkan/fragattacks/research/fragattacks-drivers58/compat/main.o

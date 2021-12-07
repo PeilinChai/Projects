@@ -1,0 +1,1 @@
+cmd_/home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/atmel/atmel_pci.mod := { echo  /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/atmel/atmel_pci.o;  echo; } > /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/atmel/atmel_pci.mod

@@ -1,0 +1,1 @@
+cmd_/home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/marvell/mwifiex/mwifiex_pcie.o := ld -m elf_x86_64    -r -o /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/marvell/mwifiex/mwifiex_pcie.o /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/marvell/mwifiex/pcie.o

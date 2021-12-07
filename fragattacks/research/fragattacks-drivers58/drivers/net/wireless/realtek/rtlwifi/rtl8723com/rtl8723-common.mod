@@ -1,0 +1,2 @@
+/home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/realtek/rtlwifi/rtl8723com/main.o /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/realtek/rtlwifi/rtl8723com/dm_common.o /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/realtek/rtlwifi/rtl8723com/fw_common.o /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/realtek/rtlwifi/rtl8723com/phy_common.o
+

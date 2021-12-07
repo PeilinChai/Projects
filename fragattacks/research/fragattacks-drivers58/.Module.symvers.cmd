@@ -1,0 +1,1 @@
+cmd_/home/balkan/fragattacks/research/fragattacks-drivers58/Module.symvers := sed 's/ko$$/o/' /home/balkan/fragattacks/research/fragattacks-drivers58/modules.order | scripts/mod/modpost -m -a   -o /home/balkan/fragattacks/research/fragattacks-drivers58/Module.symvers -e -i Module.symvers   -n -T -

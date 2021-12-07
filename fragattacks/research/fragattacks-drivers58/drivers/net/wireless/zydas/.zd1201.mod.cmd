@@ -1,0 +1,1 @@
+cmd_/home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/zydas/zd1201.mod := { echo  /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/zydas/zd1201.o;  echo; } > /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/zydas/zd1201.mod

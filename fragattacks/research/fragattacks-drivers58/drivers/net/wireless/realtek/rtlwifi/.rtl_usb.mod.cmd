@@ -1,0 +1,1 @@
+cmd_/home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/realtek/rtlwifi/rtl_usb.mod := { echo  /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/realtek/rtlwifi/usb.o;  echo; } > /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/realtek/rtlwifi/rtl_usb.mod

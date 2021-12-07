@@ -1,0 +1,1 @@
+cmd_/home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/ath/carl9170/modules.order := {   echo /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/ath/carl9170/carl9170.ko; :; } | awk '!x[$$0]++' - > /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/ath/carl9170/modules.order

@@ -1,0 +1,1 @@
+cmd_/home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/intersil/prism54/modules.order := {   echo /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/intersil/prism54/prism54.ko; :; } | awk '!x[$$0]++' - > /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/intersil/prism54/modules.order

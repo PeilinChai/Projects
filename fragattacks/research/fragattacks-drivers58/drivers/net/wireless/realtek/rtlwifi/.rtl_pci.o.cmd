@@ -1,0 +1,1 @@
+cmd_/home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/realtek/rtlwifi/rtl_pci.o := ld -m elf_x86_64    -r -o /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/realtek/rtlwifi/rtl_pci.o /home/balkan/fragattacks/research/fragattacks-drivers58/drivers/net/wireless/realtek/rtlwifi/pci.o
